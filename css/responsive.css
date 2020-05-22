@@ -318,7 +318,7 @@
 @media (min-width: 350px) and (max-width: 400px) {
 .container {width:95%;}
 .header-area .mean-bar {
-	right: 10%;
+	right: 30%;
 }
 .header-area .mean-container .mean-nav {
 	margin-top: 25px;
@@ -393,7 +393,7 @@
         font-size: 36px;
     }
     .header-area .mean-bar {
-        right: 0%;
+        right: 45%;
     }
     .header-area .mean-container a.meanmenu-reveal {
         margin-top: -8px;
