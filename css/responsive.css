@@ -1,0 +1,467 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+    .header-inner {
+        padding: 15px 0 0 0;
+    }
+    .testimonial-area:hover .comment-active .left-arrow {
+        left: -100px;
+    }
+    .testimonial-area:hover .comment-active .right-arrow {
+        right: -100px;
+    }
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+    .header-inner {
+        padding: 15px 0 0 0;
+    }
+    .banner-text h1 {
+        margin-bottom: 25px;
+        font-size: 50px;
+    }
+    .banner-btn {
+        padding: 20px 0;
+        padding-left: 60px;
+        padding-right: 25px;
+    }
+    .banner-area .banner-btn i {
+        font-size: 25px;
+        left: 25px;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    .banner-area .banner-btn + .banner-btn {
+        margin-left: 10px;
+    }
+    .features-2-img {
+        margin-top: 120px;
+    }
+    .footer-social ul li {
+        padding-right: 18px;
+        margin-bottom: 20px;
+    }
+
+}
+
+ 
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .header-inner {
+        padding: 20px 0 0 0;
+    }
+    .header-area.sticky {
+        padding: 0 0 5px 0;
+    }
+    .header-area .mean-bar {
+        right: 30%;
+        top: 5%;
+    }
+    .header-area .mean-container a.meanmenu-reveal {
+        border: 3px solid #777b92;
+        color: #777b92;
+        border-radius: 10px;
+    }
+    .header-area .mean-container a.meanmenu-reveal span {
+        background: #777b92 none repeat scroll 0 0;
+        display: block;
+        height: 5px;
+        margin-top: 2px;
+    }
+    .header-area-2 .mean-container a.meanmenu-reveal {
+        border: 3px solid #ffffff;
+        color: #ffffff;
+    }
+    .header-area-2 .mean-container a.meanmenu-reveal span {
+        background: #ffffff none repeat scroll 0 0;
+    }
+    .header-area .mean-container a.meanmenu-reveal {
+        margin-top: -45px;
+    }
+    .mean-container .mean-nav {
+        margin-top: 40px;
+    }
+    .banner-text {
+        padding-top: 210px;
+    }
+    .shape-6 {
+        bottom: 30%;
+        right: 15%;
+    }
+    .features-area {
+        padding-bottom: 125px;
+    }
+   c
+    .subscribe-form button {
+        margin-left: 10px;
+    }
+    .subscribe-form input {
+        width: 65%;
+    }
+}
+
+
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    h2 {
+        font-size: 30px;
+    }
+    .section-img {
+        margin-bottom: 25px;
+    }
+    .section-tittle {
+        margin-bottom: 30px;
+    }
+    .header-inner {
+        padding: 10px 0 0 0;
+    }
+    .header-area.sticky {
+        padding:0;
+    }
+    .header-area .mean-bar {
+        right: 40%;
+        top: 5%;
+    }
+    .header-area .mean-container a.meanmenu-reveal {
+        border: 3px solid #777b92;
+        color: #777b92;
+        border-radius: 10px;
+    }
+    .header-area .mean-container a.meanmenu-reveal span {
+        background: #777b92 none repeat scroll 0 0;
+        display: block;
+        height: 5px;
+        margin-top: 2px;
+    }
+    .header-area-2 .mean-container a.meanmenu-reveal {
+        border: 3px solid #ffffff;
+        color: #ffffff;
+    }
+    .header-area-2 .mean-container a.meanmenu-reveal span {
+        background: #ffffff none repeat scroll 0 0;
+    }
+    .header-area .mean-container a.meanmenu-reveal {
+        margin-top: -45px;
+    }
+    .banner-text {
+        padding-top: 150px;
+    }
+    .banner-text h1 {
+        margin-bottom: 25px;
+        font-size: 50px;
+    }
+    .shape-6 {
+        bottom: 30%;
+        right: 15%;
+    }
+    .banner-btn {
+        padding: 20px 0;
+        padding-left: 60px;
+        padding-right: 25px;
+    }
+    .banner-area .banner-btn i {
+        font-size: 25px;
+        left: 25px;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    .banner-area .banner-btn + .banner-btn {
+        margin-left: 10px;
+    }
+    .banner-area {
+        height: 720px;
+    }
+  
+    .features-area {
+        padding-bottom: 75px;
+    }
+    .features-2-area .section-tittle h2 {
+        margin-bottom: 30px;
+    }
+    .features-2-content span {
+        font-size: 15px;
+        letter-spacing: 0;
+        text-transform: capitalize;
+        word-spacing: 2px;
+    }
+    .features-height {
+        height: 780px;
+    }
+    .pricing-area {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .testimonial-inner-comment h3 {
+        font-size: 16px;
+        margin-bottom: 16px;
+    }
+    .testimonial-inner-comment span {
+        font-size: 14px;
+    }
+    .testimonial-area .comment-active .slick-dots {
+        bottom: -60px;
+    }
+    .testimonial-area:hover .comment-active .left-arrow {
+        left: -85px;
+    }
+    .testimonial-area:hover .comment-active .right-arrow {
+        right: -85px;
+    }
+    .faq-area {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    .faq-area .card-header button {
+        font-size: 14px;
+        padding: 20px 0 20px 15px;
+    }
+    .faq-area .card-body h4 {
+        font-size: 15px;
+        margin-bottom: 15px;
+        margin-top: 0px;
+    }
+    .faq-area .card-body p {
+        font-size: 12px;
+        font-weight: normal;
+        line-height: 18px;
+    }
+    .faq-area .card {
+        margin-bottom: 10px;
+    }
+    .blog-area{
+        padding:60px 0;
+    }
+    .subscribe-area{
+        padding:60px 0;
+    }
+    .subscribe-form input {
+        padding: 30px 0 30px 15px;
+        width: 100%;
+    }
+    .subscribe-form button {
+        margin-left: 0px;
+        margin-top: 15px;
+    }
+    .footer-area {
+        padding:60px 0;
+    }
+    
+ 
+}
+ 
+
+@media (max-width: 560px) {
+    .container {width:95%;}
+    .header-btn {
+        display: none;
+    }
+    .header-area-2 {
+        transition: .5s;
+        padding: 25px 0 10px 0;
+    }
+    .header-area-2 .mean-container a.meanmenu-reveal {
+        margin-top: -5px;
+    }
+    .header-area-2.sticky {
+        padding: 18px 0;
+    }
+    .header-area-2.sticky .mean-container a.meanmenu-reveal {
+        margin-top: -10px;
+    }
+    .header-area-2 .mean-container .mean-nav {
+        margin-top: 40px;
+    }
+    .banner-area-2 .banner-btn + .banner-btn {
+        margin-left: 0px;
+    }
+    .banner-area-2 .banner-btn {
+        padding: 15px 0;
+        padding-left: 50px;
+        padding-right: 15px;
+    }
+
+    .testimonial-area:hover .comment-active .left-arrow {
+        left: -50px;
+    }
+    .testimonial-area:hover .comment-active .right-arrow {
+        right: -50px;
+    }
+    .comment-active i {
+        width: 30px;
+        height: 30px;
+        background: #5473e8;
+        line-height: 30px;
+        text-align: center;
+        border-radius: 50%;
+        color: #fff;
+        font-size: 20px;
+        cursor: pointer;
+        opacity: 0;
+        visibility: hidden;
+    }
+    .faq-area .card-header button {
+        font-size: 12px;
+        padding: 20px 0 20px 7px;
+    }
+    .footer-social ul li {
+        padding-right: 0px;
+    }
+    
+}
+
+/* Large Mobile :480px. */
+@media (min-width: 350px) and (max-width: 400px) {
+.container {width:95%;}
+.header-area .mean-bar {
+	right: 10%;
+}
+.header-area .mean-container .mean-nav {
+	margin-top: 25px;
+}
+.header-btn {
+	display: none;
+}
+.header-area .mean-container .mean-nav {
+	margin-top: 40px;
+}
+.header-inner {
+	padding: 25px 0 0 0;
+}
+.header-area.sticky .header-inner {
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+.header-area .mean-container a.meanmenu-reveal {
+	margin-top: -4px;
+}
+.banner-text h1 {
+	margin-bottom: 15px;
+	font-size: 36px;
+}
+.banner-btn {
+    padding-left: 40px;
+}
+.banner-area .banner-btn span {
+    font-size: 12px;
+}
+.banner-area .banner-btn i {
+    font-size: 20px;
+    left: 15px;
+}
+.banner-area .banner-btn + .banner-btn {
+    margin-left: 0px;
+}
+.faq-area .card-header button {
+	font-size: 10px;
+
+}
+.footer-social ul li a i {
+	height: 35px;
+	width: 35px;
+	line-height: 35px;
+}
+ 
+}
+
+@media (min-width: 300px) and (max-width: 348px){
+    h1{
+        font-size: 45px;
+    }
+    .container {width:95%;}
+    .header-btn {
+        display: none;
+    }
+    .header-area .mean-container .mean-nav {
+        margin-top: 25px;
+    }
+    .header-inner {
+        padding: 25px 0 0 0;
+    }
+    .header-area.sticky{
+        display: none;
+    }
+    .header-area .mean-container a.meanmenu-reveal {
+        margin-top: -18px;
+    }
+    .banner-text h1 {
+        margin-bottom: 15px;
+        font-size: 36px;
+    }
+    .header-area .mean-bar {
+        right: 0%;
+    }
+    .header-area .mean-container a.meanmenu-reveal {
+        margin-top: -8px;
+    }
+    .banner-btn {
+        padding-left: 40px;
+    }
+    .banner-area .banner-btn span {
+        font-size: 12px;
+    }
+    .banner-area .banner-btn i {
+        font-size: 20px;
+        left: 15px;
+    }
+    .banner-area .banner-btn + .banner-btn {
+        margin-left: 0px;
+    }
+    .header-area .mean-container .mean-nav {
+        margin-top: 40px;
+    }
+    .subscribe-form input {
+        padding: 25px 0 25px 15px;
+        width: 80%;
+    }
+    .features-2-content span {
+        font-size: 13px;
+        letter-spacing: 0;
+        text-transform: capitalize;
+        word-spacing: 2px;
+    }
+    .features-2-content i {
+        color: #e94fca;
+        font-size: 18px;
+        padding-right: 5px;
+    }
+    .price-nav li a {
+        padding: 25px 35px;
+        font-size: 14px;
+    }
+    .price-nav {
+        margin-bottom: 10px;
+    }
+    .pricing-footer ul li {
+        font-size: 15px;
+        padding: 10px 0;
+    }
+    .testimonial-area:hover .comment-active .left-arrow {
+        left: -30px;
+    }
+    .testimonial-area:hover .comment-active .right-arrow {
+        right: -30px;
+    }
+    .footer-social ul li {
+        padding-right: 0px;
+    }
+    .faq-area .card-header button {
+        font-size: 9px;
+        padding: 12px 0 12px 5px;
+    }
+    .faq-area .card-header button {
+        font-size: 10px;
+        padding: 12px 0 12px 10px;
+    }
+    .footer-social ul li a i {
+        height: 35px;
+        width: 35px;
+        line-height: 35px;
+        font-size: 16px;
+    }
+}
+
