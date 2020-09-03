@@ -50,10 +50,10 @@
                 Animation on scroll
       ==============================================*/
 
-//   AOS.init({
-//     easing: 'ease-out-back',
-//     duration: 1500
-//   });
+  AOS.init({
+    easing: 'ease-out-back',
+    duration: 1500
+  });
   /*============================================
                 Testimonial active
       ==============================================*/
